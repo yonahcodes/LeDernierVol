@@ -1,6 +1,6 @@
 # Le Dernier Vol - 2D Cinematic Adventure
 
-![LeDernierVol Animation](lederniervol.png)
+![Le Dernier Vol Animation](LeDernierVolScreenshots.png)
 
 ## Description
 This project was developed as part of an **Introduction to Video Game Programming** course. The project involves creating a 2D cinematic experience using `Unity`, focusing on the integration of animations, sound effects, and visual assets. The game uses custom `C#` scripts to control animations, audio, and scene transitions, demonstrating foundational game programming techniques.
